@@ -1,0 +1,310 @@
+{
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4269"
+        }
+    },
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 404,
+                "FEATURE": "County Seat",
+                "NAME": "Bellingham",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 67171,
+                "FIPS55": "05280",
+                "COUNTY": "Whatcom County",
+                "FIPS": "53073",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48822021484375,
+                    48.759552001953125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 538,
+                "FEATURE": "County Seat",
+                "NAME": "Everett",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 91488,
+                "FIPS55": "22640",
+                "COUNTY": "Snohomish County",
+                "FIPS": "53061",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.20207214355469,
+                    47.97898864746094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 613,
+                "FEATURE": "Populated Place",
+                "NAME": "Shoreline",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 53025,
+                "FIPS55": "63960",
+                "COUNTY": "King County",
+                "FIPS": "53033",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34152221679688,
+                    47.75564956665039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 685,
+                "FEATURE": "County Seat",
+                "NAME": "Seattle",
+                "POP_RANGE": "500,000 - 999,999",
+                "POPULATION": 563374,
+                "FIPS55": "63000",
+                "COUNTY": "King County",
+                "FIPS": "53033",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33206939697266,
+                    47.6062126159668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 697,
+                "FEATURE": "Populated Place",
+                "NAME": "Bellevue",
+                "POP_RANGE": "100,000 - 249,999",
+                "POPULATION": 109569,
+                "FIPS55": "05210",
+                "COUNTY": "King County",
+                "FIPS": "53033",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.20067596435547,
+                    47.610382080078125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 776,
+                "FEATURE": "Populated Place",
+                "NAME": "Renton",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 50052,
+                "FIPS55": "57745",
+                "COUNTY": "King County",
+                "FIPS": "53033",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2170639038086,
+                    47.482879638671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 838,
+                "FEATURE": "Populated Place",
+                "NAME": "Kent",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 79524,
+                "FIPS55": "35415",
+                "COUNTY": "King County",
+                "FIPS": "53033",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2348403930664,
+                    47.38093185424805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 870,
+                "FEATURE": "Populated Place",
+                "NAME": "Federal Way",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 83259,
+                "FIPS55": "23515",
+                "COUNTY": "King County",
+                "FIPS": "53033",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.31262969970703,
+                    47.32231903076172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 896,
+                "FEATURE": "County Seat",
+                "NAME": "Tacoma",
+                "POP_RANGE": "100,000 - 249,999",
+                "POPULATION": 193556,
+                "FIPS55": "70000",
+                "COUNTY": "Pierce County",
+                "FIPS": "53053",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44429779052734,
+                    47.25288009643555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 1184,
+                "FEATURE": "County Seat",
+                "NAME": "Spokane",
+                "POP_RANGE": "100,000 - 249,999",
+                "POPULATION": 195629,
+                "FIPS55": "67000",
+                "COUNTY": "Spokane County",
+                "FIPS": "53063",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.4260482788086,
+                    47.658782958984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 1594,
+                "FEATURE": "County Seat",
+                "NAME": "Yakima",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 71845,
+                "FIPS55": "80010",
+                "COUNTY": "Yakima County",
+                "FIPS": "53077",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.50589752197266,
+                    46.60206604003906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 2035,
+                "FEATURE": "County Seat",
+                "NAME": "Vancouver",
+                "POP_RANGE": "100,000 - 249,999",
+                "POPULATION": 143560,
+                "FIPS55": "74060",
+                "COUNTY": "Clark County",
+                "FIPS": "53011",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66148376464844,
+                    45.638729095458984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CITIESX020": 2103,
+                "FEATURE": "Populated Place",
+                "NAME": "Kennewick",
+                "POP_RANGE": "50,000 - 99,999",
+                "POPULATION": 54693,
+                "FIPS55": "35275",
+                "COUNTY": "Benton County",
+                "FIPS": "53005",
+                "STATE": "WA",
+                "STATE_FIPS": "53",
+                "DISPLAY": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.1372299194336,
+                    46.211246490478516
+                ]
+            }
+        }
+    ]
+}

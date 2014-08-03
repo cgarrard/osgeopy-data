@@ -1,0 +1,1 @@
+All of the layers in the us.sqlite database are were created by importing the shapefiles in this folder, as were the .csv files. The shapefiles were downloaded from the United States National Atlas Data Download website at http://nationalatlas.gov/atlasftp.html.
